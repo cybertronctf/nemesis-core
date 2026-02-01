@@ -1,1 +1,0 @@
-print("nemesis-core FIX2")
